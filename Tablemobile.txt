@@ -1,0 +1,15 @@
+Table mobile{
+ MobileId  integer [primary key]
+ MobileName nvarchar 
+ frontCamera nvarchar
+ backCamera nvarchar
+ Ram nvarchar
+ storage nvarchar
+ resolution nvarchar
+ battery nvarchar
+ CPU nvarchar
+ GPU nvarchar
+ weight nvarchar
+ Displaydimensions nvarchar
+ RefreshRate nvarchar
+}
